@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'AZGESTSTAGES'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5D865B383AEE4FC79FA68C1998C711DB }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_389893F037DF4E5B8BE56F16F21696D9 }}
           package: .
